@@ -1,5 +1,10 @@
 # 쿠팡 스타일 고객상담기록관리시스템 (CRM Lite)
-![MainVisual]()
+![MainVisual](https://private-user-images.githubusercontent.com/256000008/545954061-4eeb2c41-9de4-4cb4-bfa4-cba1ce1e6fe5.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzAzNDQ0NzEsIm5iZiI6MTc3MDM0NDE3MSwicGF0aCI6Ii8yNTYwMDAwMDgvNTQ1OTU0MDYxLTRlZWIyYzQxLTlkZTQtNGNiNC1iZmE0LWNiYTFjZTFlNmZlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwMjA2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDIwNlQwMjE2MTFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zMjBkYTI1MmY3YTYyODE2NTdjZjM2Zjg0NjY5MWIzZmY2M2I4MDhiZWRhOWMyYjBjYmY0ZjM2ZWQxMDMzMjQwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.r8vjYwgyopk1aN0gM7GpE1I4MCmEVNdvtVIu7QBjvAU)
+### Before & After
+
+| Before | After |
+|--------|-------|
+| 비포이미지 | 에프터이미지 |
 
 ##Link
 -바로가기 (web-site) http://abc.co.kr
